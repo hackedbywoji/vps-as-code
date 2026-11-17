@@ -10,7 +10,7 @@ A small company runs a handful of internal services on one VPS. Three people tou
 
 The server is defined in the repository. A change is a commit, and one script brings the server in line with the repo. The history says what changed, who changed it and why, and the server can be rebuilt from scratch.
 
-![Architecture, simplified](architecture.png)
+![Architecture, simplified](architecture.svg)
 
 ## Design principles
 
