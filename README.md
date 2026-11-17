@@ -1,3 +1,5 @@
+**English** · [Español](README.es.md)
+
 # VPS as code: running a small company's servers from a Git repo
 
 A case study from [Kortem](https://kortem.es). Built with my two co-founders. The repository is private, so this covers the design, a lesson from operating it, and what I built.
